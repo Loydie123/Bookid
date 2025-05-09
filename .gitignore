@@ -1,0 +1,37 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Environment files
+.env
+.env.*
+mail_config.php
+database_connection.php
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+debug_log.txt
+
+# Uploads directory
+/uploads/
+
+# Cache files
+*.cache
+
+# Composer
+composer.phar
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
